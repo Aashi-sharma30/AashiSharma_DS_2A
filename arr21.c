@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
- int m,n;//Arjun Pandey(2100320130043)
+ int m,n;
  printf("Enter size of matrix m,n:\n");
  scanf("%d%d",&m,&n);
  int a[m][n];

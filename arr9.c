@@ -1,6 +1,6 @@
 #include<stdio.h>
 void main()
-{  // ARJUN PANDEY(2100320130043)
+{  
    int a[10],b[10],i,c[10],j,k=0,m,n;
    scanf("%d",&m);
    scanf("%d",&n);
